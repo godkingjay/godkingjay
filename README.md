@@ -11,7 +11,7 @@ I have an **NCII Certificate**📜 for *Computer Systems Servicing* which I ache
 
 I'm currently pursuing a Computer Science Degree in the Philippines.
 
-## ⚒️ Skill Set
+## ⚒️ Skills
 
 <p align="center">
   <img height="96px" width="96px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/768px-HTML5_Badge.svg.png"/>
