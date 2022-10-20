@@ -22,4 +22,5 @@ I'm currently pursuing a Computer Science Degree in the Philippines.
   <img height="96px" width="96px" src="https://cdn-icons-png.flaticon.com/512/226/226777.png"/>
   <img height="96px" width="90px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png"/>
   <img height="96px" width="96px" src="https://accupixel.co.uk/wp-content/uploads/2021/08/1200px-Python-logo-notext.svg_.png"/>
+  <img height="96px" width="96px" src="https://cdn1.iconfinder.com/data/icons/programing-development-8/24/react_logo-512.png"/>
 </p>
