@@ -5,8 +5,6 @@
 
 I'm **Jarrian**(*godkingjay*)👋, a college student, I'm currently pursuing a Computer Science Degree in the Philippines.
 
-I have an **NCII Certificate**📜 for *Computer Systems Servicing* which I acheived before I finish Junior High School.
-
 ## 📖 Education
 
 I'm currently pursuing a Computer Science Degree in the Philippines.
