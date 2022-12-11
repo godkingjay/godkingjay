@@ -1,4 +1,14 @@
+<!---
+
 [![@godkingjay's Holopin board](https://holopin.io/api/user/board?user=godkingjay)](https://holopin.io/@godkingjay)
+
+--->
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/godkingjay/count.svg" />
+</p>
+
 ## ABOUT ME
 
 ## 📜 Introduction
