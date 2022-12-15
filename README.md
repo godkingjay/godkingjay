@@ -3,15 +3,15 @@
 [![@godkingjay's Holopin board](https://holopin.io/api/user/board?user=godkingjay)](https://holopin.io/@godkingjay)
 
 --->
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/godkingjay/count.svg" />
-</p>
-
 ## ABOUT ME
 
 ![godkingjay's GitHub stats](https://github-readme-stats.vercel.app/api?username=godkingjay&count_private=true&show_icons=true&theme=radical&show_owner=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=godkingjay&theme=radical&langs_count=10&layout=compact)
+
+<p align="center"> 
+  <b>Visitor count</b><br>
+  <img src="https://profile-counter.glitch.me/godkingjay/count.svg" />
+</p>
 
 ## 📜 Introduction
 
