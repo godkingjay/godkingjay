@@ -37,4 +37,4 @@ I'm currently pursuing a Computer Science Degree in the Philippines.
 
 ## 👨‍💻 Projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=godkingjay&repo=authentic-pinoy-recipes-app&theme=radical)](https://github.com/godkingjay/Authentic-Pinoy-Recipes-App&target="_blank")
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=godkingjay&repo=authentic-pinoy-recipes-app&theme=radical)](https://github.com/godkingjay/Authentic-Pinoy-Recipes-App?target="_blank")
