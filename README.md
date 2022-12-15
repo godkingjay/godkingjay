@@ -3,13 +3,15 @@
 [![@godkingjay's Holopin board](https://holopin.io/api/user/board?user=godkingjay)](https://holopin.io/@godkingjay)
 
 --->
-
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/godkingjay/count.svg" />
 </p>
 
 ## ABOUT ME
+
+![godkingjay's GitHub stats](https://github-readme-stats.vercel.app/api?username=godkingjay&count_private=true&show_icons=true&theme=radical&show_owner=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=godkingjay&theme=radical&langs_count=10&layout=compact)
 
 ## 📜 Introduction
 
@@ -32,3 +34,7 @@ I'm currently pursuing a Computer Science Degree in the Philippines.
   <img height="96px" width="96px" src="https://accupixel.co.uk/wp-content/uploads/2021/08/1200px-Python-logo-notext.svg_.png"/>
   <img height="96px" width="96px" src="https://cdn1.iconfinder.com/data/icons/programing-development-8/24/react_logo-512.png"/>
 </p>
+
+## 👨‍💻 Projects
+
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=godkingjay&repo=authentic-pinoy-recipes-app&theme=radical)
