@@ -6,7 +6,8 @@
 ## ABOUT ME
 
 ![godkingjay's GitHub stats](https://github-readme-stats.vercel.app/api?username=godkingjay&count_private=true&show_icons=true&theme=radical&show_owner=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=godkingjay&theme=radical&langs_count=10&layout=compact&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=godkingjay&theme=radical&langs_count=20&layout=compact)
 
 <p align="center"> 
   <b>Visitor count</b><br>
@@ -27,6 +28,7 @@ I'm currently pursuing a Computer Science Degree in the Philippines.
   <img height="48px" width="48px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/768px-HTML5_Badge.svg.png"/>
   <img height="48px" width="48px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png"/>
   <img height="50px" width="50px" src="https://icon-library.com/images/javascript-icon-png/javascript-icon-png-23.jpg"/>
+  <img height="48px" width="48px" src="https://w7.pngwing.com/pngs/915/519/png-transparent-typescript-hd-logo-thumbnail.png"/>
   <img height="48px" width="48px" src="https://icon-library.com/images/php-icon-png/php-icon-png-7.jpg"/>
   <br/>
   <br/>
