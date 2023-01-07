@@ -6,7 +6,7 @@
 ## ABOUT ME
 
 ![godkingjay's GitHub stats](https://github-readme-stats.vercel.app/api?username=godkingjay&count_private=true&show_icons=true&theme=radical&show_owner=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=godkingjay&theme=radical&langs_count=10&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=godkingjay&theme=radical&langs_count=10&layout=compact&count_private=true)
 
 <p align="center"> 
   <b>Visitor count</b><br>
