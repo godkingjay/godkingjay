@@ -3,7 +3,7 @@
 [![@godkingjay's Holopin board](https://holopin.io/api/user/board?user=godkingjay)](https://holopin.io/@godkingjay)
 
 --->
-## ABOUT ME
+# 
 
 ![godkingjay's GitHub stats](https://github-readme-stats.vercel.app/api?username=godkingjay&count_private=true&show_icons=true&theme=radical&show_owner=true)
 
