@@ -6,9 +6,9 @@
   <img src="https://profile-counter.glitch.me/godkingjay/count.svg" />
 </p>
 
-## 
+<h2></h2>
 
-<img align="right" src="./assets/vaporwave-aesthetic.gif" height="640px" alt="pixel city image">
+<img align="right" src="./assets/vaporwave-aesthetic.gif" height="720px" alt="pixel city image">
 
 <h2 align="center"> Self-taught, curious, and passionate about coding! </h2><br>
 
@@ -18,13 +18,13 @@
 
 * 🐾 I’m looking to network and make friends here! <br><br><br>
 
-* 🌊 2023 Goals: Contribute more to Open Source projects <br><br><br>
+* 🌊 2023 Goals: Learn AI and Machine Learning and Contribute to Open Source Projects. <br><br><br>
 
 * ☕ Interest: Science, Math, Coffee, and Coding. <br><br><br>
 
 * :octocat: Hobbies: Sleeping, Reading, Anime, Manga, Web Novel, and Facebook. <br><br>
 
-## 
+<h2></h2>
 
 <div align="center">
   <h2> <strong> Education </strong> <img src="./assets/borderseparator.gif"/> </h2><br>
@@ -37,7 +37,7 @@
   <img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white"/>
 </div></br>
 
-## 
+<h2></h2>
 
 <div align="center">
   <img src="./assets/pixels-neon.gif" alt="pixel guy using computer" width="100%" />
@@ -49,7 +49,7 @@
   <img src="https://skillicons.dev/icons?i=angular,bash,bootstrap,bots,cs,dotnet,electron,express,firebase,flask,graphql,kotlin,laravel,linux,lua,pytorch,r,ruby,rust,tailwind,tensorflow,vue" alt="skills planning to learn logos">
 </div></br>
 
-## 
+<h2></h2>
   
 <div align="center">
   <h2> <strong> My Github Stats </strong> <img src="./assets/borderseparator.gif"/></h2><br>
@@ -62,7 +62,7 @@
 
 </br>
 
-## 
+<h2></h2>
 
 <div align="center">
   <h2 align="center">👨‍💻 Projects <img src="./assets/borderseparator.gif"/></h2><br>
