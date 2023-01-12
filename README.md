@@ -52,9 +52,10 @@
   
 <div align="center">
   <h2> <strong> My Github Stats </strong> <img src="./assets/borderseparator.gif"/></h2>
-  <img src="https://github-profile-trophy.vercel.app/?username=godkingjay&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle"  /> <br> <br>
-  <img src="https://streak-stats.demolab.com?    user=godkingjay&theme=radical&border_radius=8" height="150" alt="streaks graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=godkingjay&theme=radical&show_icons=true&0&border_radius=8&count_private=true&include_all_commits=false" height="150" alt="stats graph"  />
+  <img src="https://github-profile-trophy.vercel.app/?username=godkingjay&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle" /> <br> <br>
+  <img src="https://streak-stats.demolab.com?user=godkingjay&theme=radical" height="150" alt="streaks graph" />
+  <img src="https://streak-stats.demolab.com?user=godkingjay&theme=radical" height="150" alt="streaks graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=godkingjay&theme=radical&show_icons=true&0&border_radius=8&count_private=true&include_all_commits=false" height="150" alt="stats graph" />
 </div> <br>
 
 [![GodkingJay's Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=godkingjay&custom_title=GodkingJay's%20GitHub%20Activity%20Graph&bg_color=141321&color=A9FEF7&line=626069&point=F8D847&area_color=FE428E&title_color=FE428E&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
