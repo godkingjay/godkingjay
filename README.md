@@ -8,7 +8,9 @@
 
 ## 
 
-<h2 align="center"> Self-taught, curious, and passionate about coding! <img src="./assets/borderseparator.gif"/></h2><br>
+<img align="right" src="./assets/vaporwave-aesthetic.gif" height="640px" alt="pixel city image">
+
+<h2 align="center"> Self-taught, curious, and passionate about coding! </h2><br>
 
 * 👨‍💻 I'm Jarrian(godkingjay)👋, a college student, I'm currently pursuing a Computer Science Degree in the Philippines. <br><br><br>
 
@@ -16,9 +18,7 @@
 
 * 🐾 I’m looking to network and make friends here! <br><br><br>
 
-<!---
 * 🌊 2023 Goals: Contribute more to Open Source projects <br><br><br>
---->
 
 * ☕ Interest: Science, Math, Coffee, and Coding. <br><br><br>
 
@@ -40,6 +40,7 @@
 ## 
 
 <div align="center">
+  <img src="./assets/pixels-neon.gif" alt="pixel guy using computer" width="100%" />
   <h2> <strong> Technologies and Skills </strong><img src="./assets/borderseparator.gif"/></h2><br>
   <img src="https://skillicons.dev/icons?i=git,github,githubactions,nodejs,webpack,vite,html,css,js,java,cpp,c,py,php,mysql,regex,arduino,atom,eclipse,vscode,netlify,figma,ai,ps,pr" alt="skills logos" /> <br>
   <h3> <strong> Actively Learning </strong></h3>
