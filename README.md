@@ -8,7 +8,7 @@
 
 <h2></h2>
 
-<img align="right" src="./assets/vaporwave-aesthetic.gif" height="720px" alt="pixel city image">
+<img align="right" src="./assets/vaporwave-aesthetic.gif" height="560px" alt="pixel city image">
 
 <h2 align="center"> Self-taught, curious, and passionate about coding! </h2><br>
 
