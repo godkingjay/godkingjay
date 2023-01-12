@@ -41,7 +41,7 @@
 
 <div align="center">
   <h3> <strong> Skills </strong><img src="./assets/borderseparator.gif"/></h3>
-  <img src="https://skillicons.dev/icons?i=git,github,githubactions,nodejs,webpack,vite,html,css,js,java,cpp,c,py,php,mysql,regex,arduino,atom,eclipse,vscode,netlify,figma,ai,ps,pr" alt="skills actively learning logos"> <br>
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,nodejs,webpack,vite,html,css,js,java,cpp,c,py,php,mysql,regex,arduino,atom,eclipse,vscode,netlify,figma,ai,ps,pr" alt="skills logos"> <br>
   <h3> <strong> Actively Learning </strong></h3>
   <img src="https://skillicons.dev/icons?i=react,ts,sass,mongodb,nextjs" alt="skills actively learning logos"> <br> 
   <h3> <strong> Planning to Learn </strong></h3>
