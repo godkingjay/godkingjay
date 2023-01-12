@@ -64,4 +64,4 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=godkingjay&repo=authentic-pinoy-recipes-app&theme=radical)](https://github.com/godkingjay/Authentic-Pinoy-Recipes-App)
 
-<img src="./assets/animated-wave.svg" width="100%"/>
+<img src="./assets/animated-wave.svg" />
