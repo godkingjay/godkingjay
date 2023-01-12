@@ -54,7 +54,6 @@
   <h2> <strong> My Github Stats </strong> <img src="./assets/borderseparator.gif"/></h2>
   <img src="https://github-profile-trophy.vercel.app/?username=godkingjay&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle" /> <br> <br>
   <img src="https://streak-stats.demolab.com?user=godkingjay&theme=radical" height="150" alt="streaks graph" />
-  <img src="https://streak-stats.demolab.com?user=godkingjay&theme=radical" height="150" alt="streaks graph" />
   <img src="https://github-readme-stats.vercel.app/api?username=godkingjay&theme=radical&show_icons=true&0&border_radius=8&count_private=true&include_all_commits=false" height="150" alt="stats graph" />
 </div> <br>
 
