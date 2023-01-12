@@ -8,7 +8,7 @@
 
 ## 
 
-<h2 align="center"> Self-taught, curious, and passionate about coding! <img src="./assets/borderseparator.gif"/></h2>
+<h2 align="center"> Self-taught, curious, and passionate about coding! <img src="./assets/borderseparator.gif"/></h2><br>
 
 * 👨‍💻 I'm Jarrian(godkingjay)👋, a college student, I'm currently pursuing a Computer Science Degree in the Philippines. <br><br><br>
 
@@ -27,7 +27,7 @@
 ## 
 
 <div align="center">
-  <h2> <strong> Education </strong> <img src="./assets/borderseparator.gif"/> </h2>
+  <h2> <strong> Education </strong> <img src="./assets/borderseparator.gif"/> </h2><br>
   <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white"/>
   <img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white"/>
   <img src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white"/>
@@ -40,7 +40,7 @@
 ## 
 
 <div align="center">
-  <h3> <strong> Skills </strong><img src="./assets/borderseparator.gif"/></h3>
+  <h2> <strong> Technologies and Skills </strong><img src="./assets/borderseparator.gif"/></h2><br>
   <img src="https://skillicons.dev/icons?i=git,github,githubactions,nodejs,webpack,vite,html,css,js,java,cpp,c,py,php,mysql,regex,arduino,atom,eclipse,vscode,netlify,figma,ai,ps,pr" alt="skills logos"> <br>
   <h3> <strong> Actively Learning </strong></h3>
   <img src="https://skillicons.dev/icons?i=react,ts,sass,mongodb,nextjs" alt="skills actively learning logos"> <br> 
@@ -51,8 +51,8 @@
 ## 
   
 <div align="center">
-  <h2> <strong> My Github Stats </strong> <img src="./assets/borderseparator.gif"/></h2>
-  <img src="https://github-profile-trophy.vercel.app/?username=godkingjay&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle" /> <br><h2></h2>
+  <h2> <strong> My Github Stats </strong> <img src="./assets/borderseparator.gif"/></h2><br>
+  <img src="https://github-profile-trophy.vercel.app/?username=godkingjay&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle" /> <br><h2></h2><br>
   <img src="https://streak-stats.demolab.com?user=godkingjay&theme=radical" height="150" alt="streaks graph" />
   <img src="https://github-readme-stats.vercel.app/api?username=godkingjay&theme=radical&show_icons=true&count_private=true&include_all_commits=true" height="150" alt="stats graph" />
 </div> <br>
@@ -63,9 +63,8 @@
 
 ## 
 
-<h2 align="center">👨‍💻 Projects <img src="./assets/borderseparator.gif"/></h2>
-
 <div align="center">
+  <h2 align="center">👨‍💻 Projects <img src="./assets/borderseparator.gif"/></h2><br>
   <a href="https://github.com/godkingjay/Authentic-Pinoy-Recipes-App" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=godkingjay&theme=radical&repo=authentic-pinoy-recipes-app" height="150px" alt="Authentic Pinoy Recipes"/>
   </a>
