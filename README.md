@@ -44,7 +44,7 @@
   <img src="https://skillicons.dev/icons?i=git,github,githubactions,nodejs,webpack,vite,html,css,js,java,cpp,c,py,php,mysql,regex,arduino,atom,eclipse,vscode,netlify,figma,ai,ps,pr" alt="skills actively learning logos"> <br>
   <h3> <strong> Actively Learning </strong></h3>
   <img src="https://skillicons.dev/icons?i=react,ts,sass,mongodb,nextjs" alt="skills actively learning logos"> <br> 
-  <h3> <strong> Plan to Learn </strong></h3>
+  <h3> <strong> Planning to Learn </strong></h3>
   <img src="https://skillicons.dev/icons?i=angular,bash,bootstrap,bots,cs,dotnet,electron,express,firebase,flask,graphql,kotlin,laravel,linux,lua,pytorch,r,ruby,rust,tailwind,tensorflow,vue" alt="skills planning to learn logos">
 </div></br>
 
