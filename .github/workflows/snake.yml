@@ -21,7 +21,7 @@ jobs:
     steps:
 
       # Checks repo under $GITHUB_WORKSHOP, so your job can access it
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
 
       # Generates the snake  
       - uses: Platane/snk@v2
@@ -41,7 +41,7 @@ jobs:
           #                 Exactly 5 colors are expected.
           outputs: |
             dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark&color_snake=#95E0DC
+            dist/github-snake-dark.svg?palette=github-dark&color_snake=#95E0DC&color_dots=#ffb3d2,#fe80b3,#fe4d95,#FE428E,##fe1b77
             dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#FE428E
       # show the status of the build. Makes it easier for debugging (if there's any issues).
       - run: git status
@@ -52,7 +52,7 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: master
           force: true
-      - uses: crazy-max/ghaction-github-pages@v2.1.3
+      - uses: crazy-max/ghaction-github-pages@v3
         with:
           # the output branch we mentioned above
           target_branch: output
