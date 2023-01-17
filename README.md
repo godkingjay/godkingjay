@@ -42,7 +42,7 @@
 <div align="center">
   <img src="./assets/pixels-neon.gif" alt="pixel guy using computer" width="100%" />
   <h2> <strong> Technologies and Skills </strong><img src="./assets/borderseparator.gif"/></h2><br>
-  <img src="https://skillicons.dev/icons?i=git,github,githubactions,nodejs,webpack,vite,html,css,js,java,cpp,c,py,php,mysql,regex,arduino,atom,eclipse,vscode,netlify,vercel,figma,ai,ps,pr" alt="skills logos" /> <br>
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,nodejs,webpack,vite,html,css,js,java,cpp,c,py,php,mysql,regex,svg,arduino,atom,eclipse,vscode,netlify,vercel,figma,ai,ps,pr" alt="skills logos" /> <br>
   <h3> <strong> Actively Learning </strong></h3>
   <img src="https://skillicons.dev/icons?i=react,ts,sass,mongodb,nextjs,firebase" alt="skills actively learning logos"> <br> 
   <h3> <strong> Planning to Learn </strong></h3>
