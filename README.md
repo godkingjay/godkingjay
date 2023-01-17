@@ -1,5 +1,5 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+Jarrian+and+Welcome+to+my+Profile!" align="middle" alt="Hey, I'm Jarrian and Welcome to my Profile! animated typed out" width="100%"/>
-![snake svg](https://github.com/godkingjay/godkingjay/blob/output/github-snake-dark.svg)
+<img src="https://github.com/godkingjay/godkingjay/blob/output/github-snake-dark.svg" width="100%" align="middle"/>
 <img src="./assets/borderseparator.gif" width="100%"/>
 
 <p align="center"> 
