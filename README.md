@@ -17,7 +17,7 @@
 
 * 👨‍💻 I'm Jarrian(godkingjay)👋, a college student, I'm currently pursuing a Computer Science Degree in the Philippines. <br><br><br>
 
-* 🌳 I’m currently learning TypeScript, React and Sass! <br><br><br>
+* 🌳 I’m currently learning TypeScript, React and NextJS! <br><br><br>
 
 * 🐾 I’m looking to network and make friends here! <br><br><br>
 
