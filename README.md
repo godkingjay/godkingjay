@@ -1,6 +1,9 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+Jarrian+and+Welcome+to+my+Profile!" align="middle" alt="Hey, I'm Jarrian and Welcome to my Profile! animated typed out" width="100%"/>
 <img src="./assets/borderseparator.gif" width="100%"/>
 
+<img src="./assets/animated-flame-01.gif" width="16px" align="left"/>
+<img src="./assets/animated-flame-01.gif" width="16px" align="right"/>
+
 <p align="center"> 
   <b>Profile Views</b><br>
   <img src="https://profile-counter.glitch.me/godkingjay/count.svg" />
@@ -10,7 +13,7 @@
 
 <img align="right" src="./assets/vaporwave-aesthetic.gif" height="560px" alt="pixel city image">
 
-<h2 align="center"> Self-taught<img src="./assets/animated-flame-01.gif" width="32px"/> and passionate<img src="./assets/animated-flame-01.gif" width="32px"/> about coding! </h2><br>
+<h2 align="center"> Self-taught<img src="./assets/animated-flame-01.gif" height="40px"/> and passionate<img src="./assets/animated-flame-01.gif" height="40px"/> about coding! </h2><br>
 
 * 👨‍💻 I'm Jarrian(godkingjay)👋, a college student, I'm currently pursuing a Computer Science Degree in the Philippines. <br><br><br>
 
@@ -26,8 +29,11 @@
 
 <h2></h2>
 
+<img src="./assets/animated-flame-01.gif" width="16px" align="left"/>
+<img src="./assets/animated-flame-01.gif" width="16px" align="right"/>
+
 <div align="center">
-  <h2> <strong> Education </strong> <img src="./assets/borderseparator.gif"/> </h2><br>
+  <h2> <strong> 📚 Education </strong> <img src="./assets/borderseparator.gif"/> </h2><br>
   <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white"/>
   <img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white"/>
   <img src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white"/>
@@ -40,8 +46,15 @@
 <h2></h2>
 
 <div align="center">
-  <img src="./assets/pixels-neon.gif" alt="pixel guy using computer" width="100%" />
-  <h2> <strong> Technologies and Skills </strong><img src="./assets/borderseparator.gif"/></h2><br>
+  <img src="./assets/pixels-neon.gif" alt="pixel guy using computer" width="100%" /><br>
+</div>
+
+<div align="center">
+  <img src="./assets/animated-flame-01.gif" width="16px" align="left"/>
+  <img src="./assets/animated-flame-01.gif" width="16px" align="right"/>
+  
+  <h2> <strong> ⚙️ Technologies and Skills </strong><img src="./assets/borderseparator.gif"/></h2><br>
+  
   <img src="https://github-readme-stats-godkingjay.vercel.app/api/top-langs/?username=godkingjay&theme=radical&langs_count=10&card_width=540&layout=compact" alt="Most used languages"> <br>
   <h2></h2>
   <h3> <strong> Languages, Frameworks, and Tools </strong></h3>
@@ -53,9 +66,12 @@
 </div></br>
 
 <h2></h2>
+
+<img src="./assets/animated-flame-01.gif" width="16px" align="left"/>
+<img src="./assets/animated-flame-01.gif" width="16px" align="right"/>
   
 <div align="center">
-  <h2> <strong> My Github Stats </strong> <img src="./assets/borderseparator.gif"/></h2><br>
+  <h2> <strong> 🏆 My Github Stats </strong> <img src="./assets/borderseparator.gif"/></h2><br>
   <img src="https://github-profile-trophy.vercel.app/?username=godkingjay&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle" /> <br><h2></h2><br>
   <img src="https://streak-stats.demolab.com?user=godkingjay&theme=radical" height="150" alt="streaks graph" />
   <img src="https://github-readme-stats-godkingjay.vercel.app/api?username=godkingjay&theme=radical&show_icons=true&count_private=true" height="150" alt="stats graph" />
@@ -66,6 +82,9 @@
 </br>
 
 <h2></h2>
+
+<img src="./assets/animated-flame-01.gif" width="16px" align="left"/>
+<img src="./assets/animated-flame-01.gif" width="16px" align="right"/>
 
 <div align="center">
   <h2 align="center">👨‍💻 Projects <img src="./assets/borderseparator.gif"/></h2><br>
