@@ -42,9 +42,12 @@
 <div align="center">
   <img src="./assets/pixels-neon.gif" alt="pixel guy using computer" width="100%" />
   <h2> <strong> Technologies and Skills </strong><img src="./assets/borderseparator.gif"/></h2><br>
-  <img src="https://skillicons.dev/icons?i=git,github,githubactions,nodejs,webpack,vite,html,css,js,java,cpp,c,py,php,mysql,regex,svg,arduino,atom,eclipse,vscode,netlify,vercel,figma,ai,ps,pr" alt="skills logos" /> <br>
+  <img src="https://github-readme-stats-godkingjay.vercel.app/api/top-langs/?username=godkingjay&theme=radical&langs_count=10&card_width=540&layout=compact" alt="Most used languages"> <br>
+  <h2></h2>
+  <h3> <strong> Languages, Frameworks, and Tools </strong></h3>
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,nodejs,webpack,vite,html,css,sass,js,java,cpp,c,py,php,mysql,regex,svg,arduino,atom,eclipse,vscode,netlify,vercel,figma,ai,ps,pr" alt="skills logos" /> <br>
   <h3> <strong> Actively Learning </strong></h3>
-  <img src="https://skillicons.dev/icons?i=react,ts,sass,mongodb,nextjs,firebase" alt="skills actively learning logos"> <br> 
+  <img src="https://skillicons.dev/icons?i=react,ts,tailwind,mongodb,nextjs,firebase" alt="skills actively learning logos"> <br> 
   <h3> <strong> Planning to Learn </strong></h3>
   <img src="https://skillicons.dev/icons?i=angular,bash,bootstrap,bots,cs,dotnet,electron,express,flask,graphql,kotlin,linux,lua,pytorch,r,tailwind,tensorflow,vue" alt="skills planning to learn logos">
 </div></br>
@@ -55,7 +58,7 @@
   <h2> <strong> My Github Stats </strong> <img src="./assets/borderseparator.gif"/></h2><br>
   <img src="https://github-profile-trophy.vercel.app/?username=godkingjay&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle" /> <br><h2></h2><br>
   <img src="https://streak-stats.demolab.com?user=godkingjay&theme=radical" height="150" alt="streaks graph" />
-  <img src="https://github-readme-stats-godkingjay.vercel.app/api?username=godkingjay&theme=radical&show_icons=true&count_private=true&include_all_commits=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats-godkingjay.vercel.app/api?username=godkingjay&theme=radical&show_icons=true&count_private=true" height="150" alt="stats graph" />
 </div> <br>
 
 ![GodkingJay's Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=godkingjay&custom_title=GodkingJay's%20GitHub%20Activity%20Graph&bg_color=141321&color=A9FEF7&line=626069&point=F8D847&area_color=FE428E&title_color=FE428E&area=true)
