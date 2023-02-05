@@ -62,7 +62,7 @@
   <h3> <strong> Actively Learning </strong></h3>
   <img src="https://skillicons.dev/icons?i=redux,mongodb,nextjs,firebase" alt="skills actively learning logos"> <br> 
   <h3> <strong> Planning to Learn </strong></h3>
-  <img src="https://skillicons.dev/icons?i=angular,bash,bootstrap,bots,cs,dotnet,electron,express,flask,graphql,kotlin,linux,lua,pytorch,r,tailwind,tensorflow,vue" alt="skills planning to learn logos">
+  <img src="https://skillicons.dev/icons?i=angular,bash,bootstrap,bots,cs,dotnet,electron,express,flask,graphql,kotlin,linux,lua,pytorch,r,tensorflow,vue" alt="skills planning to learn logos">
 </div></br>
 
 <h2></h2>
