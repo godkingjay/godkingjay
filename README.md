@@ -58,7 +58,7 @@
   <img src="https://github-readme-stats-godkingjay.vercel.app/api/top-langs/?username=godkingjay&theme=radical&langs_count=10&card_width=540&layout=compact" alt="Most used languages"> <br>
   <h2></h2>
   <h3> <strong> Languages, Frameworks, and Tools </strong></h3>
-  <img src="https://skillicons.dev/icons?i=git,github,githubactions,babel,nodejs,webpack,vite,html,css,sass,tailwind,js,java,cpp,py,md,mysql,react,regex,svg,ts,arduino,atom,eclipse,vscode,netlify,vercel,figma,ai,ps,pr" alt="skills logos" /> <br>
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,babel,nodejs,webpack,vite,html,css,sass,tailwind,js,ts,react,java,cpp,py,md,mysql,regex,svg,atom,eclipse,vscode,netlify,vercel,figma,ai,ps,pr" alt="skills logos" /> <br>
   <h3> <strong> Actively Learning </strong></h3>
   <img src="https://skillicons.dev/icons?i=redux,mongodb,nextjs,firebase" alt="skills actively learning logos"> <br> 
   <h3> <strong> Planning to Learn </strong></h3>
