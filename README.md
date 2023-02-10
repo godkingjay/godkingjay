@@ -49,7 +49,7 @@
 <h2></h2>
 
 <div align="center">
-  <img src="./assets/pixels-neon.gif" alt="pixel guy using computer" width="100%" /><br>
+  <img src="./assets/pixel-neon.gif" alt="pixel guy using computer" width="100%" /><br>
 </div>
 
 <div align="center">
