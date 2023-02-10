@@ -78,10 +78,13 @@
 
 <h2></h2>
 
-<img src="./assets/animated-flame-01.gif" width="16px" align="left"/>
-<img src="./assets/animated-flame-01.gif" width="16px" align="right"/>
+<div align="center">
+  <img src="./assets/pixel-night.gif" alt="pixel city night" width="100%" /><br>
+</div>
   
 <div align="center">
+  <img src="./assets/animated-flame-01.gif" width="16px" align="left"/>
+  <img src="./assets/animated-flame-01.gif" width="16px" align="right"/>
   <h2> 🏆 My Github Stats <img src="./assets/borderseparator.gif"/></h2><br>
   <img src="https://github-profile-trophy.vercel.app/?username=godkingjay&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle" /> <br><h2></h2><br>
   <img src="https://streak-stats.demolab.com?user=godkingjay&theme=radical" height="150" alt="streaks graph" />
