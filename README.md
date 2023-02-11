@@ -28,7 +28,7 @@
 
 * ☕ Interest: Science, Math, Coffee, and Coding. <br><br><br>
 
-* :octocat: Hobbies: Sleeping, Reading, Anime, Manga, Web Novel, and Facebook. <br><br>
+* <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" height="16px"/> Hobbies: Sleeping, Reading, Anime, Manga, Web Novel, and Facebook. <br><br>
 
 <h2></h2>
 
