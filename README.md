@@ -8,7 +8,7 @@
 <img src="./assets/borderseparator.gif" width="100%"/>
 
 <div align="center"> 
-  <p>Profile Views</p><br>
+  <p><b>Profile Views</b></p><br>
   <img src="https://profile-counter.glitch.me/godkingjay/count.svg" />
 </div>
 
