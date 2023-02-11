@@ -7,10 +7,10 @@
 </div>
 <img src="./assets/borderseparator.gif" width="100%"/>
 
-<p align="center"> 
-  <b>Profile Views</b><br>
+<div align="center"> 
+  <p>Profile Views</p><br>
   <img src="https://profile-counter.glitch.me/godkingjay/count.svg" />
-</p>
+</div>
 
 <h2></h2>
 
