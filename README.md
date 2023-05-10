@@ -61,10 +61,10 @@
   <img src="https://github-readme-stats-godkingjay.vercel.app/api/top-langs/?username=godkingjay&theme=radical&langs_count=10&card_width=540&layout=compact" alt="Most used languages"> <br>
   <h2></h2>
   <h3> <strong> Languages, Frameworks, and Tools </strong></h3>
-  <img src="https://skillicons.dev/icons?i=git,github,githubactions,babel,nodejs,webpack,vite,html,css,sass,tailwind,js,ts,react,nextjs,java,cpp,py,md,firebase,mysql,regex,svg,atom,eclipse,vscode,postman,netlify,vercel,figma,ai,ps,pr" alt="skills logos" /> <br>
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,babel,nodejs,webpack,vite,html,css,sass,tailwind,js,ts,react,nextjs,java,cpp,py,md,firebase,mongodb,mysql,regex,svg,atom,eclipse,vscode,postman,netlify,vercel,figma,ai,ps,pr" alt="skills logos" /> <br>
   <h2></h2>
   <h3> <strong> Actively Learning </strong></h3>
-  <img src="https://skillicons.dev/icons?i=docker,express,mongodb" alt="skills actively learning logos"> <br> 
+  <img src="https://skillicons.dev/icons?i=docker,express" alt="skills actively learning logos"> <br> 
   <h2></h2>
   <h3> <strong> Planning to Learn </strong></h3>
   <img src="https://skillicons.dev/icons?i=angular,bash,bootstrap,bots,cs,dotnet,electron,flask,graphql,heroku,kotlin,kubernetes,linux,lua,pytorch,r,redux,tensorflow,vue" alt="skills planning to learn logos">
