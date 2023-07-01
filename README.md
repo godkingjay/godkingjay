@@ -110,11 +110,23 @@
 
 <div align="center">
   <h2 align="center">👨‍💻 Projects <img src="./assets/borderseparator.gif"/></h2><br>
-  <a href="https://github.com/godkingjay/Authentic-Pinoy-Recipes-App" target="_blank">
-    <img src="https://github-readme-stats-godkingjay.vercel.app/api/pin/?username=godkingjay&theme=radical&repo=authentic-pinoy-recipes-app" width="49%" alt="Authentic Pinoy Recipes"/>
+  <a href="https://github.com/godkingjay/sorsu" target="_blank">
+    <img src="https://github-readme-stats-godkingjay.vercel.app/api/pin/?username=godkingjay&theme=radical&repo=sorsu" width="49%" alt="Sorsucial"/>
+  </a>
+  <a href="https://github.com/godkingjay/library-management-system-next-react" target="_blank">
+    <img src="https://github-readme-stats-godkingjay.vercel.app/api/pin/?username=godkingjay&theme=radical&repo=library-management-system-next-react" width="49%" alt="LibMS"/>
   </a>
   <a href="https://github.com/godkingjay/Reddit-Clone" target="_blank">
     <img src="https://github-readme-stats-godkingjay.vercel.app/api/pin/?username=godkingjay&theme=radical&repo=reddit-clone" width="49%" alt="Reddit Clone"/>
+  </a>
+  <a href="https://github.com/godkingjay/Authentic-Pinoy-Recipes-App" target="_blank">
+    <img src="https://github-readme-stats-godkingjay.vercel.app/api/pin/?username=godkingjay&theme=radical&repo=authentic-pinoy-recipes-app" width="49%" alt="Authentic Pinoy Recipes"/>
+  </a>
+  <a href="https://github.com/godkingjay/TypeScript-and-React_Quiz-App" target="_blank">
+    <img src="https://github-readme-stats-godkingjay.vercel.app/api/pin/?username=godkingjay&theme=radical&repo=TypeScript-and-React_Quiz-App" width="49%" alt="Quizard"/>
+  </a>
+  <a href="https://github.com/godkingjay/BSCS-GVC-01-Infographics" target="_blank">
+    <img src="https://github-readme-stats-godkingjay.vercel.app/api/pin/?username=godkingjay&theme=radical&repo=BSCS-GVC-01-Infographics" width="49%" alt="Infographic Website: Artificial Intelligence - Behind Industries and Sectors"/>
   </a>
 </div>
 
