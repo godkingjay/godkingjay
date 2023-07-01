@@ -130,5 +130,28 @@
   </a>
 </div>
 
+<div align="center">
+  <h2 align="center">✉️ Contact <img src="./assets/borderseparator.gif"/></h2>
+  <a href="https://www.facebook.com/jarrian.gojar" target="_blank">
+    <img src="./assets/logos/neon-facebook.png" width="48px" alt="Facebook"/>
+  </a>
+  &nbsp
+  <a href="https://twitter.com/godking_jay" target="_blank">
+    <img src="./assets/logos/neon-twitter.png" width="48px" alt="Twitter"/>
+  </a>
+  &nbsp
+  <a href="https://www.instagram.com/jarrian.v.gg/" target="_blank">
+    <img src="./assets/logos/neon-instagram.png" width="48px" alt="Instagram"/>
+  </a>
+  &nbsp
+  <a href="https://www.linkedin.com/in/jarriangojar/" target="_blank">
+    <img src="./assets/logos/neon-linkedin.png" width="48px" alt="LinkedIn"/>
+  </a>
+  &nbsp
+  <a href="https://discord.com/users/385102038087892992" target="_blank">
+    <img src="./assets/logos/neon-discord.png" width="48px" alt="Discord"/>
+  </a>
+</div>
+
 <!-- <img src="https://github.com/godkingjay/godkingjay/blob/output/github-snake-dark-neon-2.svg" width="100%" align="middle"/> -->
 <img src="./assets/animated-wave.svg" />
