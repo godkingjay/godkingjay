@@ -134,6 +134,15 @@
   <a href="https://github.com/godkingjay/TypeScript-and-React_Quiz-App" target="_blank">
     <img src="https://github-readme-stats-godkingjay.vercel.app/api/pin/?username=godkingjay&theme=radical&repo=TypeScript-and-React_Quiz-App" width="49%" alt="Quizard"/>
   </a>
+  <a href="https://github.com/godkingjay/turborepo-next-django-template" target="_blank">
+    <img src="https://github-readme-stats-godkingjay.vercel.app/api/pin/?username=godkingjay&theme=radical&repo=turborepo-next-django-template" width="49%" alt="Turborepo Next Django Template"/>
+  </a>
+  <a href="https://github.com/godkingjay/django-jwt-template" target="_blank">
+    <img src="https://github-readme-stats-godkingjay.vercel.app/api/pin/?username=godkingjay&theme=radical&repo=django-jwt-template" width="49%" alt="Django JWT Template"/>
+  </a>
+  <a href="https://github.com/godkingjay/springer-nature-latex-template" target="_blank">
+    <img src="https://github-readme-stats-godkingjay.vercel.app/api/pin/?username=godkingjay&theme=radical&repo=springer-nature-latex-template" width="49%" alt="Springer Nature Latex Template"/>
+  </a>
   <a href="https://github.com/godkingjay/BSCS-GVC-01-Infographics" target="_blank">
     <img src="https://github-readme-stats-godkingjay.vercel.app/api/pin/?username=godkingjay&theme=radical&repo=BSCS-GVC-01-Infographics" width="49%" alt="Infographic Website: Artificial Intelligence - Behind Industries and Sectors"/>
   </a>
