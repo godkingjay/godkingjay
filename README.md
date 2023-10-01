@@ -134,6 +134,9 @@
   <a href="https://github.com/godkingjay/TypeScript-and-React_Quiz-App" target="_blank">
     <img src="https://github-readme-stats-godkingjay.vercel.app/api/pin/?username=godkingjay&theme=radical&repo=TypeScript-and-React_Quiz-App" width="49%" alt="Quizard"/>
   </a>
+  <a href="https://github.com/godkingjay/turbo-nextui-starter" target="_blank">
+    <img src="https://github-readme-stats-godkingjay.vercel.app/api/pin/?username=godkingjay&theme=radical&repo=turbo-nextui-starter" width="49%" alt="Turborepo NextUI Template"/>
+  </a>
   <a href="https://github.com/godkingjay/turborepo-next-django-template" target="_blank">
     <img src="https://github-readme-stats-godkingjay.vercel.app/api/pin/?username=godkingjay&theme=radical&repo=turborepo-next-django-template" width="49%" alt="Turborepo Next Django Template"/>
   </a>
