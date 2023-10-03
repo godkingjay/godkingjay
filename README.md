@@ -18,17 +18,17 @@
 
 <h2 align="center"> Self-taught<img src="./assets/animated-flame-01.gif" height="24px"/> and passionate<img src="./assets/animated-flame-01.gif" height="24px"/> about coding! </h2><br>
 
-* 👨‍💻 I'm Jarrian(godkingjay)👋, a college student, I'm currently pursuing a Computer Science Degree in the Philippines. <br><br><br>
+- 👨‍💻 I'm Jarrian(godkingjay)👋, a college student, I'm currently pursuing a Computer Science Degree in the Philippines. <br><br><br>
 
-* 🌳 I’m currently learning AI and ML using Python! <br><br><br>
+- 🌳 I’m currently learning AI and ML using Python! <br><br><br>
 
-* 🐾 I’m looking to network and make friends here! <br><br><br>
+- 🐾 I’m looking to network and make friends here! <br><br><br>
 
-* 🌊 2023 Goals: Learn AI and Machine Learning and Contribute to Open Source Projects. <br><br><br>
+- 🌊 2023 Goals: Learn AI and Machine Learning and Contribute to Open Source Projects. <br><br><br>
 
-* ☕ Interest: Science, Math, Coffee, and Coding. <br><br><br>
+- ☕ Interest: Science, Math, Coffee, and Coding. <br><br><br>
 
-* <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" height="16px"/> Hobbies: Sleeping, Reading, Anime, Manga, Web Novel, and Facebook. <br><br>
+- <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" height="16px"/> Hobbies: Sleeping, Reading, Anime, Manga, Web Novel, and Facebook. <br><br>
 
 <h2></h2>
 
@@ -36,14 +36,33 @@
 <img src="./assets/animated-flame-01.gif" width="16px" align="right"/>
 
 <div align="center">
-  <h2> <strong> 📚 Education </strong> <img src="./assets/borderseparator.gif"/> </h2><br>
-  <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white"/>
-  <img src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white"/>
+  <h2> <strong> 📚 Education </strong> <img src="./assets/borderseparator.gif"/> </h2>
+  <br>
+
+  <a href="https://www.codewars.com/users/godkingjay" target="_blank">
+    <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white"/>
+  </a>
+
+  <a href="https://www.coursera.org/user/35d06074c7104e91a2ec94c25ea37db4" target="_blank">
+    <img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white"/>
+  </a>
+
+  <a href="https://www.hackerrank.com/godking_jay" target="_blank">
+    <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>
+  </a>
+
+  <a href="https://leetcode.com/godkingjay/" target="_blank">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white"/>
+  </a>
+
+  <a href="https://www.sololearn.com/profile/9696303/" target="_blank">
+    <img src="https://img.shields.io/badge/Sololearn-f20057?style=for-the-badge&logoColor=white"/>
+  </a>
+
+  <a href="https://www.udemy.com/user/jarrian-vince-gloriana-gojar/" target="_blank">
+    <img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white"/>
+  </a>
+  
 </div></br>
 
 <h2></h2>
