@@ -88,11 +88,11 @@
   
   <h2></h2>
   <h3> <strong> Languages, Frameworks, and Tools </strong></h3>
-  <img src="https://skillicons.dev/icons?i=git,github,githubactions,nodejs,webpack,vite,html,css,sass,tailwind,js,ts,react,nextjs,redux,java,cpp,py,firebase,mongodb,mysql,postman,netlify,vercel,figma" alt="skills logos" />
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,nodejs,webpack,vite,html,css,sass,tailwind,js,ts,react,nextjs,redux,java,cpp,py,swift,firebase,mongodb,mysql,postman,netlify,vercel,figma" alt="skills logos" />
   <br> 
   <h2></h2>
   <h3> <strong> Actively Learning </strong></h3>
-  <img src="https://skillicons.dev/icons?i=django,swift,tensorflow" alt="skills actively learning logos">
+  <img src="https://skillicons.dev/icons?i=django,tensorflow" alt="skills actively learning logos">
   <br>
   <!-- <h2></h2>
   <h3> <strong> Planning to Learn </strong></h3>
