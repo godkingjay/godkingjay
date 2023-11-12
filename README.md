@@ -160,12 +160,12 @@
   <a href="https://github.com/godkingjay/TypeScript-and-React_Quiz-App" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=godkingjay&theme=radical&repo=TypeScript-and-React_Quiz-App" width="49%" alt="Quizard"/>
   </a>
-<!--   <a href="https://github.com/godkingjay/ionic-react-shadcn-starter" target="_blank">
+  <a href="https://github.com/godkingjay/ionic-react-shadcn-starter" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=godkingjay&theme=radical&repo=ionic-react-shadcn-starter" width="49%" alt="Ionic React Shadcn UI Starter"/>
-  </a> -->
-  <a href="https://github.com/godkingjay/turborepo-shadcn-starter" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=godkingjay&theme=radical&repo=turborepo-shadcn-starter" width="49%" alt="Turborepo Shadcn UI Starter"/>
   </a>
+<!--   <a href="https://github.com/godkingjay/turborepo-shadcn-starter" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=godkingjay&theme=radical&repo=turborepo-shadcn-starter" width="49%" alt="Turborepo Shadcn UI Starter"/>
+  </a> -->
   <a href="https://github.com/godkingjay/turbo-nextui-starter" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=godkingjay&theme=radical&repo=turbo-nextui-starter" width="49%" alt="Turborepo NextUI Starter"/>
   </a>
