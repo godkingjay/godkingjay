@@ -27,9 +27,9 @@
 
 -   🐾 I’m looking to network and make friends here! <br><br><br>
 
--   🌊 2023 Goals: Learn AI and Machine Learning and Contribute to Open Source Projects. <br><br><br>
+-   🌊 2024 Goals: Learn AI and Machine Learning and Contribute to Open Source Projects. <br><br><br>
 
--   ☕ Interest: Science, Math, Coffee, and Coding. <br><br><br>
+-   ☕ Interests: Science, Math, Coffee, and Coding. <br><br><br>
 
 -   <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" height="16px"/> Hobbies: Sleeping, Reading, Anime, Manga, Web Novel, and Facebook. <br><br>
 
