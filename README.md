@@ -157,6 +157,9 @@
   <a href="https://github.com/godkingjay/Authentic-Pinoy-Recipes-App" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=godkingjay&theme=radical&repo=authentic-pinoy-recipes-app" width="49%" alt="Authentic Pinoy Recipes"/>
   </a>
+  <a href="https://github.com/godkingjay/unquotable-quote" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=godkingjay&theme=radical&repo=unquotable-quote" width="49%" alt="Unquotable Quote"/>
+  </a>
   <a href="https://github.com/godkingjay/TypeScript-and-React_Quiz-App" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=godkingjay&theme=radical&repo=TypeScript-and-React_Quiz-App" width="49%" alt="Quizard"/>
   </a>
