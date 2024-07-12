@@ -21,7 +21,7 @@
 
 <h2 align="center"> Self-taught<img src="./assets/animated-flame-01.gif" width="14px"/> and passionate<img src="./assets/animated-flame-01.gif" width="14px"/> about coding! </h2><br>
 
--   👨‍💻 I'm Jarrian(godkingjay)👋, a college student, I'm currently pursuing a Computer Science Degree in the Philippines. <br><br><br>
+-   👨‍💻 I'm Jarrian(godkingjay)👋, a Computer Science graduate from the Philippines. <br><br><br>
 
 -   🌳 I’m currently learning AI and ML using Python! <br><br><br>
 
