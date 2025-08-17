@@ -90,7 +90,7 @@
   
   <h2></h2>
   <h3> <strong> Languages, Frameworks, and Tools </strong></h3>
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,githubactions,nodejs,webpack,vite,html,css,sass,tailwind,js,ts,react,nextjs,redux,django,java,cpp,py,swift,arduino,docker,firebase,mongodb,mysql,sqlite,postman,netlify,vercel,figma,materialui" alt="skills logos" />
+  <img src="https://skillicons.dev/icons?i=aws,git,github,gitlab,githubactions,nodejs,webpack,vite,latex,html,css,sass,tailwind,js,ts,react,nextjs,redux,fastapi,django,java,cpp,py,swift,arduino,docker,firebase,mongodb,mysql,sqlite,postman,netlify,vercel,figma,materialui" alt="skills logos" />
   <br> 
   <h2></h2>
   <h3> <strong> Actively Learning </strong></h3>
