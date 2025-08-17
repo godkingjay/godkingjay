@@ -11,8 +11,7 @@
 <img src="./assets/borderseparator.gif" width="100%"/>
 
 <div align="center">
-  <p><b>Profile Views</b></p>
-  <img src="https://profile-counter.glitch.me/godkingjay/count.svg" width="240px" />
+  <img src="https://komarev.com/ghpvc/?username=godkingjay&color=blueviolet" width="160px" />
 </div>
 
 <h2></h2>
