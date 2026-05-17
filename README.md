@@ -141,6 +141,9 @@
 
 <div align="center">
   <h2 align="center">👨‍💻 Projects <img src="./assets/borderseparator.gif"/></h2><br>
+  <a href="https://github.com/godkingjay/floci-ui" target="_blank">
+    <img src="https://github-readme-stats-umber-kappa.vercel.app/api/pin/?username=godkingjay&theme=radical&repo=floci-ui" width="49%" alt="Floci UI"/>
+  </a>
   <a href="https://github.com/godkingjay/selenium-twitter-scraper" target="_blank">
     <img src="https://github-readme-stats-umber-kappa.vercel.app/api/pin/?username=godkingjay&theme=radical&repo=selenium-twitter-scraper" width="49%" alt="Selenium Twitter Scraper"/>
   </a>
