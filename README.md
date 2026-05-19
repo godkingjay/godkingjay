@@ -147,48 +147,6 @@
   <a href="https://github.com/godkingjay/selenium-twitter-scraper" target="_blank">
     <img src="https://github-readme-stats-umber-kappa.vercel.app/api/pin/?username=godkingjay&theme=radical&repo=selenium-twitter-scraper" width="49%" alt="Selenium Twitter Scraper"/>
   </a>
-  <a href="https://github.com/godkingjay/sorsu" target="_blank">
-    <img src="https://github-readme-stats-umber-kappa.vercel.app/api/pin/?username=godkingjay&theme=radical&repo=sorsu" width="49%" alt="SorSUcial"/>
-  </a>
-  <a href="https://github.com/godkingjay/library-management-system-next-react" target="_blank">
-    <img src="https://github-readme-stats-umber-kappa.vercel.app/api/pin/?username=godkingjay&theme=radical&repo=library-management-system-next-react" width="49%" alt="LibMS"/>
-  </a>
-  <a href="https://github.com/godkingjay/Reddit-Clone" target="_blank">
-    <img src="https://github-readme-stats-umber-kappa.vercel.app/api/pin/?username=godkingjay&theme=radical&repo=reddit-clone" width="49%" alt="Reddit Clone"/>
-  </a>
-  <a href="https://github.com/godkingjay/Authentic-Pinoy-Recipes-App" target="_blank">
-    <img src="https://github-readme-stats-umber-kappa.vercel.app/api/pin/?username=godkingjay&theme=radical&repo=authentic-pinoy-recipes-app" width="49%" alt="Authentic Pinoy Recipes"/>
-  </a>
-  <a href="https://github.com/godkingjay/unquotable-quote" target="_blank">
-    <img src="https://github-readme-stats-umber-kappa.vercel.app/api/pin/?username=godkingjay&theme=radical&repo=unquotable-quote" width="49%" alt="Unquotable Quote"/>
-  </a>
-  <a href="https://github.com/godkingjay/TypeScript-and-React_Quiz-App" target="_blank">
-    <img src="https://github-readme-stats-umber-kappa.vercel.app/api/pin/?username=godkingjay&theme=radical&repo=TypeScript-and-React_Quiz-App" width="49%" alt="Quizard"/>
-  </a>
-  <a href="https://github.com/godkingjay/next-refine-starter" target="_blank">
-    <img src="https://github-readme-stats-umber-kappa.vercel.app/api/pin/?username=godkingjay&theme=radical&repo=next-refine-starter" width="49%" alt="Next Refine Starter"/>
-  </a>
-  <a href="https://github.com/godkingjay/ionic-react-shadcn-starter" target="_blank">
-    <img src="https://github-readme-stats-umber-kappa.vercel.app/api/pin/?username=godkingjay&theme=radical&repo=ionic-react-shadcn-starter" width="49%" alt="Ionic React Shadcn UI Starter"/>
-  </a>
-  <a href="https://github.com/godkingjay/turborepo-shadcn-starter" target="_blank">
-    <img src="https://github-readme-stats-umber-kappa.vercel.app/api/pin/?username=godkingjay&theme=radical&repo=turborepo-shadcn-starter" width="49%" alt="Turborepo Shadcn UI Starter"/>
-  </a>
-  <a href="https://github.com/godkingjay/turbo-nextui-starter" target="_blank">
-    <img src="https://github-readme-stats-umber-kappa.vercel.app/api/pin/?username=godkingjay&theme=radical&repo=turbo-nextui-starter" width="49%" alt="Turborepo NextUI Starter"/>
-  </a>
-  <a href="https://github.com/godkingjay/turborepo-next-django-starter" target="_blank">
-    <img src="https://github-readme-stats-umber-kappa.vercel.app/api/pin/?username=godkingjay&theme=radical&repo=turborepo-next-django-starter" width="49%" alt="Turborepo Next Django Starter"/>
-  </a>
-  <a href="https://github.com/godkingjay/django-jwt-starter" target="_blank">
-    <img src="https://github-readme-stats-umber-kappa.vercel.app/api/pin/?username=godkingjay&theme=radical&repo=django-jwt-starter" width="49%" alt="Django JWT Starter"/>
-  </a>
-  <a href="https://github.com/godkingjay/springer-nature-latex-template" target="_blank">
-    <img src="https://github-readme-stats-umber-kappa.vercel.app/api/pin/?username=godkingjay&theme=radical&repo=springer-nature-latex-template" width="49%" alt="Springer Nature Latex Template"/>
-  </a>
-  <a href="https://github.com/godkingjay/BSCS-GVC-01-Infographics" target="_blank">
-    <img src="https://github-readme-stats-umber-kappa.vercel.app/api/pin/?username=godkingjay&theme=radical&repo=BSCS-GVC-01-Infographics" width="49%" alt="Infographic Website: Artificial Intelligence - Behind Industries and Sectors"/>
-  </a>
 </div>
 
 </br>
